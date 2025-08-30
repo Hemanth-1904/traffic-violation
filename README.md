@@ -9,13 +9,6 @@ Built with **YOLOv8** and Python, this system processes traffic videos/images to
 
 ---
 
-## System Architecture
-
-![Architecture](image.png)  
-👉 *(Replace with your actual system architecture diagram)*
-
----
-
 ## 🚀 Features
 
 ### 🚦 Red-Light Violation Detection
